@@ -1,4 +1,4 @@
-# AutoEQ-to-PEQ
+# PEQ from AutoEQ compatible with HiByMusic Player 
 
 This repository contains a collection of parametric EQ (PEQ) files converted from the AutoEQ GitHub repository by Jaakko Pasanen. All the PEQ files here can be readily imported into the HiByMusic Player app for an enhanced music listening experience.
 
