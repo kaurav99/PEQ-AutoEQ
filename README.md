@@ -4,10 +4,13 @@ This repository contains a collection of parametric EQ (PEQ) files converted fro
 
 AutoEQ is a project for equalizing headphone frequency responses automatically and it achieves this by parsing frequency response measurements and producing equalization settings which correct the headphone to a neutral sound.
 <p float="left">
-<img src="https://github.com/kaurav99/PEQ-AutoEQ/assets/86246542/5ffb08d9-a5b5-4d47-a567-ed9b11d1d2e4" alt="drawing" width="300" height="700"/>          
-<img src="https://github.com/kaurav99/PEQ-AutoEQ/assets/86246542/c2fbd29c-6322-4304-a39b-09e24be19ba9" alt="drawing" width="300" height="700"/>                
-<img src="https://github.com/kaurav99/PEQ-AutoEQ/assets/86246542/f3b2b779-b782-4eab-b6d0-6e0bad7e8a04" alt="drawing" width="300" height="700"/>
+<img src="https://github.com/o2rhkzqx/PEQ/assets/104969742/d3fe0acb-e10c-406a-8b40-aa42f0d2d4b9" alt="drawing" width="300" height="700"/>          
+<img src="https://github.com/o2rhkzqx/PEQ/assets/104969742/ba699953-1386-489e-8d48-99440e2e2efd" alt="drawing" width="300" height="700"/>                
+<img src="https://github.com/o2rhkzqx/PEQ/assets/104969742/cdd35e29-3974-41e8-b72f-fbcded12caf5" alt="drawing" width="300" height="700"/>
 </p>
+
+
+
 
 
 
