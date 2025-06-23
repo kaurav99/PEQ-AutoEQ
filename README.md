@@ -34,6 +34,73 @@ Here are a few examples of sound profiles you might come across in the PEQ files
 
 Note: Each PEQ file is named according to the headphone model it corresponds to.
 
+🎯 Important: Due to recent changes, HiByMusic now only recognizes PEQ files located in:
+
+Internal Storage/ANDROID/DATA/com.hiby.music/files/peqfile
+
+This folder isn't accessible from regular file managers because of Android's security changes.
+
+📂 If Your Device Is Rooted
+
+You can easily copy your PEQ files to the correct directory:
+
+cp /path/to/your/*.peq /sdcard/Android/data/com.hiby.music/files/peqfile/
+
+Alternatively, use a root-enabled file manager to move the files. Once done, open HiByMusic and import them normally.
+
+🔧 If Your Device Is NOT Rooted, Use Shizuku + Wireless Debugging
+
+Shizuku allows apps to access the restricted directory with system-level privileges — without rooting — by pairing via ADB over Wi‑Fi.
+
+👉 Follow the official Shizuku setup guide here: https://shizuku.rikka.app/guide/setup/
+
+Quick Steps:
+
+Install Shizuku (from F‑Droid or Play Store) and a compatible file manager.
+
+Supported file managers:
+
+AirData UAV
+
+Amarok-Hider
+
+FV File Manager
+
+MiXplorer
+
+MiXplorer Silver
+
+MT Manager
+
+NMM File Manager / Text Edit
+
+SDMaid-SE
+
+Solid Explorer
+
+SwiftBackup
+
+Total Commander (version 3.60 beta or later)
+
+X-Plore
+
+ZArchiver
+
+Follow the step-by-step instructions on the official Shizuku website to enable Wireless Debugging and start the Shizuku service.
+
+In your file manager, enable Shizuku access to Android/data.
+
+Use your file manager to navigate to:
+
+Internal Storage/ANDROID/DATA/com.hiby.music/files/peqfile
+
+Copy or move your .peq files into this folder.
+
+Launch HiByMusic and import the presets as usual.
+
+🔄 Note: Shizuku must be reactivated after every device reboot to maintain access to Android/data.
+
+
 ## Acknowledgement
 
 This work would not have been possible without the extensive research and groundwork laid by Jaakko Pasanen in his [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master) project. Please consider supporting his work if you find this repository helpful.
