@@ -34,13 +34,13 @@ Here are a few examples of sound profiles you might come across in the PEQ files
 
 Note: Each PEQ file is named according to the headphone model it corresponds to.
 
-🎯 Important: Due to recent changes, HiByMusic now only recognizes PEQ files located in:
+**🎯 Important: Due to recent changes, HiByMusic now only recognizes PEQ files located in:**
 
-Internal Storage/ANDROID/DATA/com.hiby.music/files/peqfile
+*Internal Storage/ANDROID/DATA/com.hiby.music/files/peqfile*
 
 This folder isn't accessible from regular file managers because of Android's security changes.
 
-📂 If Your Device Is Rooted
+**📂 If Your Device Is Rooted**
 
 You can easily copy your PEQ files to the correct directory:
 
@@ -48,7 +48,7 @@ cp /path/to/your/*.peq /sdcard/Android/data/com.hiby.music/files/peqfile/
 
 Alternatively, use a root-enabled file manager to move the files. Once done, open HiByMusic and import them normally.
 
-🔧 If Your Device Is NOT Rooted, Use Shizuku + Wireless Debugging
+**🔧 If Your Device Is NOT Rooted, Use Shizuku + Wireless Debugging**
 
 Shizuku allows apps to access the restricted directory with system-level privileges — without rooting — by pairing via ADB over Wi‑Fi.
 
@@ -98,7 +98,7 @@ Copy or move your .peq files into this folder.
 
 Launch HiByMusic and import the presets as usual.
 
-🔄 Note: Shizuku must be reactivated after every device reboot to maintain access to Android/data.
+*🔄 Note: Shizuku must be reactivated after every device reboot to maintain access to Android/data.*
 
 
 ## Acknowledgement
