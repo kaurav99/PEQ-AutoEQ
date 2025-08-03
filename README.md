@@ -36,7 +36,6 @@ Note: Each PEQ file is named according to the headphone model it corresponds to.
 
 
 
-
 ## Acknowledgement
 
 This work would not have been possible without the extensive research and groundwork laid by Jaakko Pasanen in his [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master) project. Please consider supporting his work if you find this repository helpful.
